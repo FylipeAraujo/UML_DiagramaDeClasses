@@ -1,0 +1,13 @@
+-----------------------------------------
+|             iPhone                  |
+-----------------------------------------
+| + tocar()                          |
+| + pausar()                         |
+| + selecionarMusica(musica: String) |
+| + ligar(numero: String)            |
+| + atender()                       |
+| + iniciarConversaVoz()            |
+| + exibirPagina(url: String)       |
+| + adicionarNovaAba(url: String)    |
+| + atualizarPagina()               |
+-----------------------------------------
